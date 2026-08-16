@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-iyc127.juragan89.space/sitemap.xml
